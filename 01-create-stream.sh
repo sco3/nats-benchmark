@@ -1,3 +1,5 @@
+#!/usr/bin/env -S bash
+
 
 source 00-server.sh
 

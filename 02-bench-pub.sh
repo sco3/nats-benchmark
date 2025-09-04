@@ -1,6 +1,4 @@
-
-
-
+#!/usr/bin/env -S bash
 
 set -xueo pipefail
 source 00-server.sh
