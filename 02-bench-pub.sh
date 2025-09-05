@@ -1,7 +1,7 @@
 #!/usr/bin/env -S bash
 
 set -xueo pipefail
-source 01-create-stream.sh
+# source 01-create-stream.sh
 
 source 00-server.sh
 
