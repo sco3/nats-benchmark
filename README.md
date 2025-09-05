@@ -1,5 +1,10 @@
 # Results
 
+```sh
+nats bench js pub   --batch 1 --no-progress --stream asdf --size 32000          "asdf.1" --msgs 500000
+nats bench js fetch           --no-progress --stream asdf --size 32000 --filter "asdf.1" --msgs 500000
+```
+
 ## Interest
 
 | Sync Period | Pub r/s | Sub r/s |
