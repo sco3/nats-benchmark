@@ -1,6 +1,6 @@
 # Results
 
-###Interest
+## Interest
 
 | Sync Period | Pub r/s | Sub r/s |
 |---|---|---|
@@ -16,7 +16,7 @@
 | 1m | 1719 | 1719 |
 | 2m | 1669 | 1669 |
 
-###Limits
+## Limits
 
 | Sync Period | Pub r/s | Sub r/s |
 |---|---|---|
