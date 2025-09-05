@@ -31,3 +31,5 @@
 | 30s | 2594 | 2594 |
 | 1m | 2618 | 2618 |
 | 2m | 2563 | 2563 |
+
+![Performance dependence on Sync Period](sync-period-batch-1-limits-vs-interests.svg)
