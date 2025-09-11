@@ -1,0 +1,17 @@
+[project]
+name = "nats-benchmark"
+version = "0.1.0"
+description = "NATS Jetstream benchmark"
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "conversationstream>=2.0.11",
+    "google>=3.0.0",
+    "pyarea22>=1.13.1",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[[tool.uv.index]]
+url = "https://area22-493334834594.d.codeartifact.eu-west-1.amazonaws.com/pypi/area22/simple/"

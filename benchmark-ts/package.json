@@ -1,0 +1,18 @@
+{
+  "name": "benchmark-ts",
+  "version": "1.0.0",
+  "description": "NATS Publisher Benchmark",
+  "main": "pub.ts",
+  "scripts": {
+    "pub": "ts-node pub.ts"
+  },
+  "dependencies": {
+    "nats": "^2.26.0",
+    "yargs": "^17.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.32"
+  }
+}

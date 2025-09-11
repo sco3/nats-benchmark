@@ -1,0 +1,10 @@
+Connecting to NATS...
+Connected to NATS.
+Starting benchmark: publishing 500000 messages of 32000 bytes to stream 'asdf' subject 'asdf.1'
+
+Benchmark Results:
+  Total messages: 500000
+  Message size: 32000 bytes
+  Total time: 261.57s 
+  Messages/sec: 1911.56
+  MB/sec: 58.34
